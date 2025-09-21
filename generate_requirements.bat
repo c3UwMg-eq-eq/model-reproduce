@@ -1,0 +1,1 @@
+pipreqsnb . --force --encoding=utf-8
